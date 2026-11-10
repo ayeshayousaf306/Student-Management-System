@@ -25,7 +25,7 @@ The Student Management System is a simple C++ console-based project designed to 
 - `README.md` – Project documentation.
 
 ## Author
-Sania Sarfraz
+Ayesha yousaf 
 
 ## Purpose
 This project was developed for learning and practicing basic C++ programming concepts.
